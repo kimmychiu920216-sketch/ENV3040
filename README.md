@@ -1,5 +1,4 @@
 # ENV3040
-Fall 2025 Final Project
 
 Nov 17, 2025
 
@@ -7,3 +6,5 @@ Nov 17, 2025
 HelloWorld.py: Test Python script
 
 Nov_10.ipynb: A Jupyter notebook exploring concrete strength data
+
+Chiu_Kimmy_Project.ipynb: Fall 2025 Course Project
